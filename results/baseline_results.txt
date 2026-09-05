@@ -1,0 +1,6 @@
+Oxford-IIIT Pet | ResNet-18 Baseline
+==================================================
+Test Loss: 0.2706
+Top-1 Accuracy: 0.9166 (91.66%)
+Top-5 Accuracy: 0.9955 (99.55%)
+Macro-F1: 0.9163

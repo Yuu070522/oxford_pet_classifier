@@ -1,0 +1,4 @@
+Experiment,Val Accuracy,Test Top-1,Test Top-5,Macro-F1
+Baseline,91.74%,91.84%,99.73%,91.77%
+Label Smoothing,91.92%,92.66%,99.27%,92.65%
+Random Rotation 15°,92.11%,92.20%,99.46%,92.22%
